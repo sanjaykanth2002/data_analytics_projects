@@ -1,14 +1,42 @@
-🚀 Empowering Businesses with Data-Driven Insights! 📊
-I specialize in creating interactive and customized dashboards using Tableau to help businesses make informed decisions. Whether it's sales performance, customer trends, or operational efficiency, I transform raw data into actionable visual stories tailored to your business needs.
+# 💼 Tableau Salary Dashboard
 
-🔹 Dynamic & User-Friendly Dashboards
-🔹 KPI Analysis & Performance Tracking
-🔹 Industry-Specific Data Solutions
-🔹 Real-Time Insights for Smarter Decision-Making
+🚀 Empowering Businesses with Data-Driven Insights!
 
-Let’s turn your data into a competitive advantage! 💡
-📩 DM me for collaborations!
+An interactive and insightful Tableau dashboard designed to analyze salary distribution, compensation trends, and workforce equity. Built to assist HR teams, analysts, and decision-makers in gaining real-time, actionable insights from workforce data.
 
-#Tableau #DataAnalytics #BusinessIntelligence #DataDriven #DataVisualization #DataScience #DashboardDesign #BI #Analytics #TechInnovation #BigData #AI #MachineLearning #BusinessGrowth #MarketingAnalytics #FinanceAnalytics #SalesPerformance
+🎥 **Demo Coming Soon**  
+📊 Built with **Tableau Public**
 
+---
 
+## 📌 Features
+
+- 📈 **Salary Distribution by Department**
+- 👥 **Gender-Based Pay Comparison**
+- 📍 **Location-Wise Average Compensation**
+- 📅 **Experience vs Salary Trend Analysis**
+- 🌟 **Top-Paid Roles & Compensation Gaps**
+- 📊 **Interactive Filters**: Department, Role, Gender, Location, Experience
+
+---
+
+## 🧰 Tools & Technologies
+
+- 🧠 **Tableau** – Data Visualization
+- 📂 **Excel / CSV** – Data Source
+- 🧼 **Data Cleaning** – Performed in Tableau Prep / Excel
+
+---
+
+## 📊 KPI Highlights
+
+- 📌 **Average Salary**
+- 📌 **Median Salary**
+- 📌 **Pay Gap % (Gender)**
+- 📌 **Salary Growth Rate by Role & Department**
+
+---
+
+## 🗃️ Dataset Overview
+
+Sample dataset with the following fields:
