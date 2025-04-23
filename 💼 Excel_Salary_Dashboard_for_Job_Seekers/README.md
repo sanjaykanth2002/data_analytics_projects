@@ -1,12 +1,13 @@
 # 💼 Excel Salary Dashboard for Job Seekers
 
-![Dashboard Overview](https://github.com/user-attachments/assets/bcc6aa30-fd7e-4bd5-9d4d-afe51b222235)
 
 ## 📘 Introduction
 
 This Excel-based **Job Seekers Salary Dashboard** was created to help individuals explore data job salaries and assess if they are being adequately compensated.
 
 The dashboard is built using a real-world 2023 dataset containing detailed information on job titles, salaries, locations, and required skills. This project demonstrates my ability to analyze, clean, and visualize data using core Excel features.
+
+![Dashboard Overview](https://github.com/user-attachments/assets/bcc6aa30-fd7e-4bd5-9d4d-afe51b222235)
 
 ---
 
