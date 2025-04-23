@@ -27,7 +27,7 @@ A set of Tableau dashboards built to assist **sales teams** and **marketing mana
 - **Customer Dashboard**: Analyzes customer segments, satisfaction, and retention
 
 🔹 Skills used: Data visualization, KPI tracking, trend analysis, Tableau filters  
-🔹 📎 [View Project README](./tableau_dashboard_project/README.md)
+🔹 📎 [View Project README](https://github.com/sanjaykanth2002/data_analytics_projects/blob/main/%F0%9F%93%8A%20Sales_%26_Customer_Dashboard_using_Tableau/README.md)
 
 🖼️ Sales Dashboard Preview:  
 ![Sales Dashboard](https://github.com/sanjaykanth2002/data_analytics_projects/blob/main/%F0%9F%93%8A%20Sales_%26_Customer_Dashboard_using_Tableau/image/Screenshot%202025-03-04%20173317.png)
@@ -44,7 +44,7 @@ A set of Tableau dashboards built to assist **sales teams** and **marketing mana
 
 I build data-driven solutions to solve real-world problems and help businesses make smarter decisions.
 
-🔗 [LinkedIn](https://linkedin.com/in/sanjay-kanth-s) • [GitHub](https://github.com/salmannmaq) • [Portfolio](https://salmanmaq.github.io)
+🔗 [LinkedIn](https://linkedin.com/in/sanjay-kanth-s) • [GitHub](https://github.com/salmannmaq) 
 
 ---
 
