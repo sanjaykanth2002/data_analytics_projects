@@ -44,7 +44,7 @@ A set of Tableau dashboards built to assist **sales teams** and **marketing mana
 
 I build data-driven solutions to solve real-world problems and help businesses make smarter decisions.
 
-🔗 [LinkedIn](https://linkedin.com/in/sanjay-kanth-s) • [GitHub](https://github.com/sanjaykanth2002/data_analytics_projects) 
+🔗 [LinkedIn](https://linkedin.com/in/sanjay-kanth-s) • [GitHub](https://github.com/sanjaykanth2002/data_analytics_projects/tree/main)
 
 ---
 
