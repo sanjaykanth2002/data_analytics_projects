@@ -11,7 +11,7 @@ An interactive Excel dashboard designed to help **job seekers** explore salary t
 🔹 Skills used: Data cleaning, advanced formulas, charts, and data validation  
 🔹 Features: Median salary filters, job type breakdown, country-based insights  
 🔹 📎 [View Project README](./job_seekers_dashboard_using_Excel/README.md)  
-🔹 📊 [Excel File](./job_seekers_dashboard_using_Excel/1_Salary_Dashboard.xlsx)
+🔹 📊 [Excel File](https://github.com/sanjaykanth2002/data_analytics_projects/blob/main/%F0%9F%92%BC%20Excel_Salary_Dashboard_for_Job_Seekers/README.md)
 
 🖼️ Dashboard Preview:  
 ![Excel Dashboard](https://github.com/user-attachments/assets/bcc6aa30-fd7e-4bd5-9d4d-afe51b222235)
