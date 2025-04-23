@@ -34,7 +34,7 @@ The **Sales Dashboard** presents an overview of key sales metrics to:
 
 ### 🖼️ Dashboard Preview
 
-![Sales Dashboard](https://via.placeholder.com/800x400)
+![Sales Dashboard](https://github.com/sanjaykanth2002/data_analytics_projects/blob/main/%F0%9F%93%8A%20Sales_%26_Customer_Dashboard_using_Tableau/image/Screenshot%202025-03-04%20173317.png)
 
 ---
 
