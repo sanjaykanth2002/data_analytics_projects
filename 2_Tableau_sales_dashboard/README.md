@@ -98,7 +98,7 @@ The **Customer Dashboard** focuses on customer behavior and trends to:
 ## 📫 Contact
 
 **Sanjay Kanth S**  
-[LinkedIn](https://linkedin.com/in/sanjay-kanth-s) | [GitHub](https://github.com/salmannmaq) |  
+[LinkedIn](https://linkedin.com/in/sanjay-kanth-s) | [GitHub](https://github.com/sanjaykanth2002/data_analytics_projects/tree/main/2_Tableau_sales_dashboard) |  
 Email: [sanjaykanthsk2002@gmail.com](mailto:sanjaykanthsk2002@gmail.com)
 
 ---
