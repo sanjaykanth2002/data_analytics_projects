@@ -30,7 +30,7 @@ A set of Tableau dashboards built to assist **sales teams** and **marketing mana
 🔹 📎 [View Project README](./tableau_dashboard_project/README.md)
 
 🖼️ Sales Dashboard Preview:  
-![Sales Dashboard](https://via.placeholder.com/800x400)
+![Sales Dashboard](https://github.com/sanjaykanth2002/data_analytics_projects/blob/main/%F0%9F%93%8A%20Sales_%26_Customer_Dashboard_using_Tableau/image/Screenshot%202025-03-04%20173317.png)
 
 🖼️ Customer Dashboard Preview:  
 ![Customer Dashboard](https://via.placeholder.com/800x400)
